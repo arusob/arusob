@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arusob.
-- 👀 I’m interested in frontend programming.
+- 👀 I’m interested in frontend development.
 - 🌱 I’m currently learning HTML, CSS, JS ...
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
